@@ -1,0 +1,1 @@
+{"mappings":"AAAe,kDAAU,CAAS,EAAE,CAAS,EAAU;IACnD,OAAO,CAAC,GAAG,CAAC,CAAC;CAChB","sources":["src/index.tsx"],"sourcesContent":["export default function (a: number, b: number): number {\n    return a + b;\n}"],"names":[],"version":3,"file":"module.js.map"}

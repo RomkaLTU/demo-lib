@@ -1,0 +1,1 @@
+{"mappings":"AAAA,yBAAyB,CAAC,EAAE,MAAM,EAAE,CAAC,EAAE,MAAM,GAAG,MAAM,CAErD","sources":["src/src/index.tsx","src/index.tsx"],"sourcesContent":[null,"export default function (a: number, b: number): number {\n    return a + b;\n}"],"names":[],"version":3,"file":"types.d.ts.map"}
