@@ -1,8 +1,9 @@
 {
   "author": "RD",
   "license": "MIT",
-  "name": "demo-lib",
+  "name": "demo-lib-nothing",
   "version": "0.0.1",
+  "description": "Simple lib that does nothing",
   "source": "src/index.tsx",
   "main": "dist/main.js",
   "module": "dist/module.js",
@@ -10,6 +11,10 @@
   "scripts": {
     "watch": "parcel watch",
     "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RomkaLTU/demo-lib"
   },
   "devDependencies": {
     "@parcel/packager-ts": "^2.5.0",
