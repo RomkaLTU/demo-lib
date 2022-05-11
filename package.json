@@ -1,4 +1,6 @@
 {
+  "author": "RD",
+  "license": "MIT",
   "name": "demo-lib",
   "version": "0.0.1",
   "source": "src/index.tsx",
